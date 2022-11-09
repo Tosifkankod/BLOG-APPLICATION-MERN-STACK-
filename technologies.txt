@@ -1,0 +1,10 @@
+Technologies used in this Project: 
+1. REACT
+2. NODE JS
+3. MONGO DB
+4. MATERIAL UI
+5. REDUX
+6. JSX
+7. AXIOS
+
+ 
